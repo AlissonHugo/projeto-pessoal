@@ -1,0 +1,75 @@
+[site]
+Origem e Fundação
+A Shopee nasceu em 2015, em Singapura, criada pelo empresário Forrest Li. Ela pertence ao conglomerado Sea Group (originalmente chamado Garena), uma gigante de tecnologia apoiada por investidores globais como a chinesa Tencent.
+
+A ideia inicial do Sea Group — que já era forte no mercado de games com títulos como Free Fire — foi lançar um marketplace adaptado aos costumes do Sudeste Asiático. O foco foi criar um e-commerce mobile-first (prioridade total no app de celular), integrando recursos de redes sociais e gamificação diretamente nas compras.
+
+Fundação em Singapura
+2015
+A Shopee é lançada pela Garena (atual Sea Group) no Sudeste Asiático e em Taiwan com foco exclusivo no ecossistema mobile.
+
+Rebranding & IPO
+2017
+A Garena muda de nome para Sea Group e abre capital na Bolsa de Nova York (NYSE: SE), impulsionando a expansão da plataforma.
+
+Chegada ao Brasil
+2019
+A Shopee desembarca no Brasil como seu primeiro mercado fora da Ásia, conectando inicialmente compradores brasileiros a vendedores internacionais.
+
+Boom no Brasil & Vendedores Locais
+2020–2021
+Com a pandemia de COVID-19, a empresa abre a plataforma para vendedores brasileiros e escala agressivamente no país com cupons de frete grátis.
+
+Malha Logística Própria
+2022–Hoje
+Inauguração de dezenas de centros de distribuição (CDs) e centenas de pontos de coleta/entrega (Hubs e Agências Shopee) espalhados pelo Brasil.
+
+
+Como Funciona o Modelo de Negócios
+
+A Shopee opera como um marketplace C2C e B2C, conectando pequenos comerciantes, grandes marcas e consumidores:
+
+Shopee Garantia: O valor pago pelo cliente fica retido pela plataforma e só é repassado ao vendedor após o comprador confirmar o recebimento do pacote correto.
+
+Gamificação e Recompensas: O aplicativo recompensa os usuários com Moedas Shopee por meio de jogos in-app (Shopee Candy, Roda Shopee) e check-ins diários. Essas moedas funcionam como desconto em compras futuras.
+
+Cupons de Frete Grátis e Descontos: Estratégia central para atração e retenção de usuários, subsidiada em parte pela própria plataforma e pelos vendedores parceiros.
+
+Shopee no Brasil
+
+O Brasil foi a porta de entrada da Shopee nas Américas em final de 2019. O crescimento no país seguiu uma transição estratégica:
+
+Início (Cross-Border): Conectar brasileiros a produtos baratos vindos diretamente da China e de outros países asiáticos
+
+Nacionalização: Hoje, mais de 85% a 90% das vendas no Brasil vêm de vendedores locais (empresas e MEIs nacionais).
+
+Shopee Oficial: Área dedicada a grandes marcas reconhecidas (como Samsung, Heineken, Nestlé, L'Oréal), garantindo procedência e nota fiscal.
+
+A Logística por Trás da Shopee
+
+Para sustentar o volume gigante de entregas diárias, a Shopee montou uma infraestrutura que combina logística própria (Shopee Xpress) e integração com malhas parceiras:
+
+[Imagem]
+
+Centros de Distribuição (Fulfilment e Sortation): A empresa conta com mais de 10 megacentros de distribuição no Brasil (concentrados no Sudeste, Nordeste e Sul), encarregados do recebimento, triagem automatizada e consolidação de mercadorias.
+
+Hubs de Coleta e Agências Shopee: Milhares de pontos físicos parceiros espalhados pelas cidades (como comércios locais cadastrados) onde os vendedores deixam os pacotes prontos para envio.
+
+Rotas Expressas e Aéreas: Para encurtar prazos de entrega em estados distantes dos grandes polos produtores, a Shopee utiliza frete aéreo dedicado (como a rota entre São Paulo e Manaus).
+
+Malha Last-Mile: A entrega final ao cliente é dividida entre frotas parceiras dedicadas da Shopee Xpress, entregadores independentes e Correios para regiões de difícil acesso.
+
+[extra]
+
+Curiosidades
+
+De jogos a comércio: A empresa-mãe da Shopee (Sea) ficou bilionária no mercado de jogos eletrônicos antes de criar a plataforma de e-commerce.
+
+Guerra das datas duplas: A Shopee popularizou os eventos globais de compras em datas espelhadas, como o 9.9, 10.10 e 11.11, trazendo forte engajamento de ofertas relâmpago.
+
+Atores Globais nas Campanhas: O marketing da marca é conhecido por jingles chicletes e garotos-propaganda de peso global, como Jackie Chan, Cristiano Ronaldo e Terry Crews no Brasil.
+
+O significado do nome: Deriva da expressão "Shop Easy" (comprar com facilidade), destacando a simplicidade de comprar tudo em poucos toques no celular.
+
+
+
